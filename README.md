@@ -1,10 +1,10 @@
 
 
-# python
-
-
+# Python
 
 [TOC]
+
+![logo](图片地址 ''图片title'')
 
 本群旨在帮助各位成员学习及使用python相关技巧，
 
@@ -40,6 +40,9 @@
 
 后期完善
 
+### 数据分析
+
+后期完善
 
 
 ### 框架
@@ -48,10 +51,9 @@
 - Diesel
 - Flask
 
-#### 
 
 
-分享目录
+### 分享目录
 
 [第1期 《Python起源及简介》 by monta](https://github.com/montawwl/python/issues/2)
 
