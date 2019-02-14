@@ -22,6 +22,7 @@
 | 002  | tallon | 2019-2-12 |
 | 003  | ilv    | 2019-2-12 |
 | 004  | zhonhui| 2019-2-14 |
+| 005  |suchang1995| 2019-2-14|
 
 
 
@@ -48,6 +49,14 @@
 - Flask
 
 #### 
+
+
+分享目录
+
+[第1期 《Python起源及简介》 by monta](https://github.com/montawwl/python/issues/2)
+
+[第2期 《Python函数学习》by ilv](https://github.com/montawwl/python/issues/3)
+
 
 
 
