@@ -4,7 +4,7 @@
 
 [TOC]
 
-![logo](图片地址 ''图片title'')
+![logo](https://github.com/montawwl/python/blob/master/common/pic/logo.jpeg?raw=true)
 
 本群旨在帮助各位成员学习及使用python相关技巧，
 
@@ -25,6 +25,11 @@
 | 005  |suchang1995| 2019-2-14|
 
 
+
+## 提交规则
+
+1. 每人两周一篇issue)(两次不完成目标即认为自动退出小组)
+2. issue以python学习相关为主，如当月着实工作负荷超重，可写工作中相关见解等心得感悟
 
 
 
@@ -58,6 +63,9 @@
 [第1期 《Python起源及简介》 by monta](https://github.com/montawwl/python/issues/2)
 
 [第2期 《Python函数学习》by ilv](https://github.com/montawwl/python/issues/3)
+
+[第3期 《matplotlib画图基本语句》 by zhonhui](https://github.com/montawwl/python/issues/4)
+
 
 
 
