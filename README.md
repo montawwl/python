@@ -1,7 +1,5 @@
 
 
-# Python
-
 [TOC]
 
 ![logo](https://github.com/montawwl/python/blob/master/common/pic/logo.jpeg?raw=true)
