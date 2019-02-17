@@ -61,6 +61,6 @@
 
 [第3期 《matplotlib画图基本语句》 by zhonhui](https://github.com/montawwl/python/issues/4)
 
-[第4期 《python实现的小工具》 by tallon](https://github.com/montawwl/python/issues/4)
+[第4期 《python实现的小工具》 by tallon](https://github.com/montawwl/python/issues/5)
 
 
