@@ -3,6 +3,7 @@
 # @Author  : YangBo
 # @File    : Skills_Email.py
 
+#发邮件
 import smtplib
 from email.mime.text import MIMEText
 

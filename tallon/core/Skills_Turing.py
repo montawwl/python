@@ -3,6 +3,7 @@
 # @Author  : YangBo
 # @File    : Skills_Turing.py
 
+# 微信自动回复
 import itchat
 import requests
 import re

@@ -20,7 +20,7 @@
 | 002  | tallon | 2019-2-12 |
 | 003  | ilv    | 2019-2-12 |
 | 004  | zhonhui| 2019-2-14 |
-| 005  |suchang1995| 2019-2-14|
+| 005  |ForeverJULY| 2019-2-17|
 
 
 
@@ -30,14 +30,11 @@
 2. issue以python学习相关为主，如当月着实工作负荷超重，可写工作中相关见解等心得感悟
 
 
-
 ## 计划
 
 ### 语法基础
 
 后期完善
-
-
 
 ### 爬虫
 
@@ -64,7 +61,6 @@
 
 [第3期 《matplotlib画图基本语句》 by zhonhui](https://github.com/montawwl/python/issues/4)
 
-
-
+[第4期 《python实现的小工具》 by tallon](https://github.com/montawwl/python/issues/4)
 
 
