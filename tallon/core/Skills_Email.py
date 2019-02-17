@@ -13,7 +13,7 @@ content = input("邮件内容\n")
 host = "smtp.qq.com"  # QQ邮箱服务器
 
 user_name = '352420160'  # 登录账号
-pwd = 'aoqebpcsukpfbhab'  # SMTP密码
+pwd = '你的QQ邮箱授权码'  # SMTP密码
 sender = '352420160@qq.com'  # 发送者邮箱
 
 message = MIMEText(content, 'plain', 'utf-8')
