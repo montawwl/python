@@ -63,4 +63,11 @@
 
 [第4期 《python实现的小工具》 by tallon](https://github.com/montawwl/python/issues/5)
 
+[第5期 《Seaborn趣味绘图》 by zhonhui](https://github.com/montawwl/python/issues/6)
+
+[第6期 MOOC《Python语言程序设计》听课笔记](https://github.com/montawwl/python/issues/7)
+
+[第7期 MOOC《Python语言程序设计》听课笔记](https://github.com/montawwl/python/issues/8)
+
+[第8期 《分段统计图、批量保存和颜色设置》by zhonhui](https://github.com/montawwl/python/issues/9)
 
